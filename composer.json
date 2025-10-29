@@ -1,0 +1,23 @@
+{
+    "name": "smeghead/php-snip-base64-like",
+    "description": "A PHP library to snip base64-like strings and prevent log bloating.",
+    "require-dev": {
+        "phpunit/phpunit": "^12.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smeghead\\SnipBase64Like\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "smeghead",
+            "email": "smeghead7@gmail.com"
+        }
+    ],
+    "scripts": {
+        "test": "phpunit"
+    },
+    "require": {}
+}
