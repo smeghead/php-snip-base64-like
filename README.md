@@ -1,5 +1,9 @@
 # php-snip-base64-like
 
+[![Latest Stable Version](https://img.shields.io/packagist/v/smeghead/php-snip-base64-like.svg?style=flat-square)](https://packagist.org/packages/smeghead/php-snip-base64-like)
+[![Total Downloads](https://img.shields.io/packagist/dt/smeghead/php-snip-base64-like.svg?style=flat-square)](https://packagist.org/packages/smeghead/php-snip-base64-like)
+[![PHP Version](https://img.shields.io/packagist/php-v/smeghead/php-snip-base64-like.svg?style=flat-square)](https://packagist.org/packages/smeghead/php-snip-base64-like)
+
 A PHP helper that trims base64-like blobs out of log messages so your log files stay readable and small while still recording the contextual data you need.
 
 ## Why Snip Base64?
