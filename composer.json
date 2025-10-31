@@ -19,5 +19,7 @@
     "scripts": {
         "test": "phpunit"
     },
-    "require": {}
+    "require": {
+        "php": ">=8.3"
+    }
 }
